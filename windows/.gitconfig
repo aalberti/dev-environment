@@ -1,0 +1,17 @@
+[user]
+	name = *******
+	email = *******
+[core]
+	autocrlf = input
+[pull]
+	rebase = preserve
+[rerere]
+	enabled = true
+	autoupdate = true
+[diff]
+	mnemonicPrefix = true
+	renames = true
+[color]
+	ui = auto
+[credential]
+	helper = wincred
